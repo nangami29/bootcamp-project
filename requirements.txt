@@ -4,6 +4,6 @@ geopandas
 plotly
 folium
 streamlit_folium
-shapely.geometry
-geopandas.tools
+shapely
+
 
